@@ -1,4 +1,4 @@
-# Syntactic-Parser
+# CYK Syntactic Parser
 
 ## Description
 This app allows the user to input a file containing a context-free grammar in Chomsky normal form (CNF). It will then use that grammar to syntactically parse any sentences that user inputs, using the Cocke-Younger-Kasami (CKY) algorithm.
